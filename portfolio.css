@@ -1,0 +1,122 @@
+#background {
+    position: absolute;
+    width: 1440px;
+    height: 632px;
+    left: 0px;
+    top: 264px;
+    background: linear-gradient(180deg, rgba(87, 85, 98, 0) 0%, rgba(87, 85, 98, 0.74) 5.73%);
+}
+
+#medgui {
+    position: absolute;
+    width: 496px;
+    height: 303px;
+    left: 7px;
+    top: 16px;    
+    background-image: url(../images/medicalgui.png);
+    background-size: 100%;
+}
+
+#game {
+    position: absolute;
+    width: 496px;
+    height: 303px;
+    left: 7px;
+    top: 327px;
+    background-image: url(../images/2Dgame.png);
+    background-size: 100%;
+}
+
+#blackjack {
+    position: absolute;
+    width: 412px;
+    height: 531px;
+    left: 513px;
+    top: 58px;
+    background-image: url(../images/blackjack.png);
+    background-size: 100%;
+}
+
+#realestate {
+    position: absolute;
+    width: 496px;
+    height: 303px;
+    left: 936px;
+    top: 16px;
+    background-image: url(../images/realestate.png);
+    background-size: 100%;
+}
+
+#bumblequest {
+    position: absolute;
+    width: 496px;
+    height: 303px;
+    left: 936px;
+    top: 327px;
+    background-image: url(../images/bumblequest.png);
+    background-size: 100%;
+}
+
+#me {
+    position: absolute;
+    width: 167px;
+    height: 223px;
+    left: 636px;
+    top: -260px;
+    background-image: url(../images/me.png);
+    background-size: 100%;
+    border-radius: 60px;
+}
+
+a:link, a:visited {
+    color:grey;
+    position: absolute;
+    width: 246px;
+    height: 31px;
+    left: 597px;
+    top: 220px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  
+  a:hover, a:active {
+    color: red;
+  }
+
+#brian {
+    position: absolute;
+    width: 340px;
+    height: 114px;
+    left: 310px;
+    top: -70px;
+    
+    font-family: 'Noto Sans SC', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120px;
+    line-height: 138px;
+    
+    color: #6F6F6F;
+}
+
+#skanes {
+    position: absolute;
+    width: 358px;
+    height: 114px;
+    left: 826px;
+    top: -70px;
+    
+    font-family: 'Noto Sans SC', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120px;
+    line-height: 138px;
+    
+    color: #6F6F6F;    
+}
